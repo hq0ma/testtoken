@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "owZtWzyYQonREJKpID43AX50zbEw2rgsVRbKjEUHnB0=",
+  "Source": "NotificationMessage.Backend",
+  "BasePath": "_content/NotificationMessage.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
